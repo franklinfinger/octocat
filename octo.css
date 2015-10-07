@@ -1,0 +1,43 @@
+
+li {
+  list-style: none;
+
+}
+.octocat {
+  display: inline-block;
+  width: 30%;
+  height: 30%;
+}
+
+
+.octocat > a img {
+    width: 92%;
+    border: 2px solid lightgrey;
+}
+
+.image-footer {
+  margin-right: 10%;
+  border-bottom: 2px solid lightgrey;
+
+}
+
+
+.authors img {
+  width: 25px;
+  height: 25px;
+  float: right;
+}
+
+.image-number {
+  text-align: left;
+}
+
+.image-caption {
+  text-align: right;
+  font-size: 15px;
+
+}
+
+.img-caption span the{
+  float: right;
+}
